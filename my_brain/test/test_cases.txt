@@ -1,0 +1,42 @@
+bad dogs run in a mice quickly
+run mice PREP_P,run quickly ADVERB,run dogs SUBJ,mice a DET,mice in PREP,dogs bad ADJ
+dogs run
+run dogs SUBJ
+the mice run
+run mice SUBJ,mice the DET
+the dogs chase cats
+chase cats OBJ,chase dogs SUBJ,dogs the DET
+the man saw the woman
+saw woman OBJ,saw man SUBJ,woman the DET,man the DET
+cats love big mice
+love mice OBJ,love cats SUBJ,mice big ADJ
+the bad dogs bite the big cats
+bite cats OBJ,bite dogs SUBJ,cats the DET,cats big ADJ,dogs the DET,dogs bad ADJ
+dogs run quickly
+run quickly ADVERB,run dogs SUBJ
+the cats quickly run 
+run quickly ADVERB,run cats SUBJ,cats the DET
+the man fly quickly
+fly quickly ADVERB,fly man SUBJ,man the DET
+the cats quickly bite the mice
+bite mice OBJ,bite quickly ADVERB,bite cats SUBJ,mice the DET,cats the DET
+the cats run in people
+run people PREP_P,run cats SUBJ,people in PREP,cats the DET
+the cats saw the mice in people
+saw mice OBJ,saw cats SUBJ,mice people PREP_P,mice the DET,people in PREP,cats the DET
+the cats in the people saw the mice 
+saw mice OBJ,saw cats SUBJ,mice the DET,cats people PREP_P,cats the DET,people the DET,people in PREP
+dogs are cats
+are cats OBJ,are dogs SUBJ
+dogs are big
+are big ADJ,are dogs SUBJ
+big dogs are bad
+are bad ADJ,are dogs SUBJ,dogs big ADJ
+the big bad dogs are bad
+are bad ADJ,are dogs SUBJ,dogs the DET,dogs bad ADJ1,dogs big ADJ
+big school are bad
+are bad ADJ,are school SUBJ,school big ADJ
+the big bad fat problems are scary
+are scary ADJ,are problems SUBJ,problems big ADJ,problems bad ADJ1,problems the DET,problems fat ADJ2
+I love you
+love you OBJ,love I SUBJ

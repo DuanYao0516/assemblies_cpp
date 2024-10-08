@@ -1,0 +1,8 @@
+__pycache__
+cpp/bazel-*
+*.exe
+my_brain/temp/
+my_brain/build/
+my_brain/build_test/
+my_brain/build_main/
+.vscode/
